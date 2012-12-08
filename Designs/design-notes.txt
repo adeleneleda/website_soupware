@@ -1,0 +1,50 @@
+--- Colors ---------
+accent:			00aeef (cyan-ish pale blue, for icons, etc)
+white:			f9f9f9 (nearly white, but yeah, not yet white)
+light gray:		959595 (dividers)
+hyperlink:		757575 (as suggested)
+header/footer gray:	3e3e3e (80-ish% gray)
+
+--- Font   ---------
+Open Sans
+(I'm thinking of another font compatible with Open Sans. Any thoughts? :D)
+
+-- smallfont -------
+- navbar		12pt regular
+
+- banner title		28pt bold
+- banner subtext	16pt regular
+
+- box title		16pt bold
+- box subtitle		12pt bold
+- box subtitle accent	12pt extrabold
+- box text		10pt regular
+
+- center text		22pt semibold
+- center text accent	22pt light/bold/extrabold
+
+- box2 title		16pt bold
+- box2 text		11pt regular
+
+
+- body hyperlink	semibold
+
+--- Sizes ----------
+ Website is 1024 px in width.
+
+--- Notes  ---------
+- no vertical sizes are standard yet
+
+- the middle of the page can accommodate more 'boxes' of 
+interest, optimally up to six boxes. the sample design
+has three boxes.
+
+- box4, 5, and 6 is somewhat a variation of box1, 2, and 3.
+you can choose to use any combination of the designs, or
+not use any of them at all. XD
+
+- other pages (i.e. about, portfolio, etc) may have their
+descriptions/information on the 'banner' portion of the 
+page, accompanied by some graphic, like a logo or something.
+This is similar to how Dropbox did in its about page
+(and I also plan to do the same for our members page XD)

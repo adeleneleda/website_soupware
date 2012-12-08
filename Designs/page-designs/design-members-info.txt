@@ -1,0 +1,68 @@
+Contains the decriptions for the members.
+These descriptions will be embedded into the page
+as JS or something of the sort.
+
+Since we're basing this from Dropbox, and
+Dropbox doesn't really have serious descriptions,
+we will follow suit. :>
+
+NOTE: Those with x's were made by Erwin.
+
+NOTE2: I was literally soup (read: SABAW) when I
+was writing these up. HAHAHA XD please feel free 
+to edit the descriptions if deemed too ...
+bleargh. XD
+-- Erwin (Nov 17 2012 Friday)
+
+Nigel - The Big Boss (x)
+-----------
+- The head chef. The big boss. He's the guy who
+started it all. The guy who coined the term
+"Soupware". The guy with the mad programming
+and management skills. That's him.
+
+Chynna - Executive Chef
+-----------
+- 
+
+Kross - The Sacrifice
+-----------
+- 
+
+Souper Cheffers
+===================
+
+Adelen - Dependable Damsel (x)
+-----------
+- Armed with an amazing track record and
+extensive programming experience, Adelen
+promises to deliver only the best code in
+the whole of Soupware.
+
+Erwin - The Writer of this Shizz
+-----------
+-
+
+Justin - The Writer (x)
+-----------
+- Writing has always been one of Justin's
+passions. In our team, he just doesn't pump
+out code, he pumps out witty and wily writing
+too. In fact, he may or may not have written
+this block of text himself.
+
+Gabbi - 700 N
+-----------
+-
+
+Benjo - The Instrument of Justice (x)
+-----------
+-
+
+Conrad - The Pro-cook (x)
+-----------
+-
+
+Raf - 22 years and single
+-----------
+-

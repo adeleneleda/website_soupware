@@ -1,0 +1,44 @@
+---------------------------------------------------------
+These are semi-final designs for the Soupware websites.
+
+They are in PSD format, 1024px wide, variable px hight.
+We will enforce the 1024px width restriction for these
+PSD files to minimize file size and to let viewers see
+the actual width of the site.
+
+As of today, only 'design-home.psd' is in final form.
+
+-- Erwin, 07-19-12 --------------------------------------
+
+
+---------------------------------------------------------
+Some notes for the potentially confused viewer of the
+design-members.psd file:
+
+. yes, it's a copy of the design-home.psd. XD I simply
+hid the other elements of the page, but they're still
+essentially there. XD
+
+you might find some use with the other elements kasi,
+so I left it hidden first. 
+
+if you think that it will surely /not/ be used anymore, 
+you can go ahead and delete them. :D you can restore 
+them from the original 
+file anyway. :D XD
+
+. the graphics on either psd can be freely modified
+and edited. :D they're just placeholders, so you can
+of course edit them as you wish. :D
+
+. eventually, all the graphics you'll potentially use
+in the psd pages must be exported as individual pictures.
+Keep that in mind as you make them. :D
+
+That's all! Good luck you guys \;u;/
+
+-- Erwin, 11-17-12 --------------------------------------
+
+[11-30-12] Question:
+(Gabbeh here! :D) Soooo, just to make sure, we're free
+to edit text (/content), as well, right? ;o; 
